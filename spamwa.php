@@ -1,8 +1,6 @@
 <?php
 echo "\033[33;1m PrankTools By Aditya"
-sleep 1
 echo "\033[36;1m★""\033[34;1mAditXploit""\033[36;1m★"
-sleep 1
 echo "\033[33;1m Nomor Target? Ex :08XXXXXXXXX\nInput :  ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
