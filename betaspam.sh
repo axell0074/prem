@@ -13,12 +13,12 @@ sleep 1
 echo "\033[36;1m★""\033[34;1mAditya-Ploit BetaSpam""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Command Spam Yang Tersedia :"
-echo "\033[35;1m1.""\033[36;1m$ php spamwa.php"
-echo "\033[35;1m2.""\033[36;1m$ php call.php"
-echo "\033[35;1m3.""\033[36;1m$ php spammail.php"
+echo "\033[35;1m.""\033[36;1m~$ php spamwa.php"
+echo "\033[35;1m.""\033[36;1m~$ php call.php"
+echo "\033[35;1m.""\033[36;1m~$ php spammail.php"
 echo "\033[31;1m0. Keluar"
 echo "\033[37;1m81.""\033[30;1mInformasi Tool Ini"
-echo "\033[33;1m Ketik Command Untuk Execute:"
+echo "\033[33;1m Ketik 0 Untuk Memulai Execute:"
 read mrrm
 
 
@@ -60,7 +60,7 @@ echo "\033[35;1m2.""\033[36;1m$ php call.php"
 echo "\033[35;1m3.""\033[36;1m$ php spammail.php"
 echo "\033[31;1m0. Keluar"
 echo "\033[37;1m81.""\033[30;1mInformasi Tool Ini"
-echo "\033[33;1m Ketik Command Untuk Execute:"
+echo "\033[33;1m Ketik 0 Untuk Memulai Execute:"
 fi
 
 
@@ -70,7 +70,7 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
+echo "\033[32;1m Execute file php yang ada di list tadi ! Thx."
 sleep 1
 clear
 
