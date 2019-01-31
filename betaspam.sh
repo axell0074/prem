@@ -30,7 +30,6 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
-cd prem
 $ php spamwa.php
 fi
 
@@ -46,7 +45,6 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
-cd prem
 $ php call.php
 fi
 
