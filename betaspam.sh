@@ -8,7 +8,7 @@ clear
 
 toilet -f slant --gay "BSpam"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m Tools Private"
 sleep 1
 echo "\033[36;1m★""\033[34;1mAditya-Ploit BetaSpam""\033[36;1m★"
 sleep 1
@@ -18,7 +18,7 @@ echo "\033[35;1m2.""\033[36;1m$ php call.php"
 echo "\033[35;1m3.""\033[36;1m$ php spammail.php"
 echo "\033[31;1m0. Keluar"
 echo "\033[37;1m81.""\033[30;1mInformasi Tool Ini"
-echo "\033[33;1m Ketik Angka 81 Untuk Info:"
+echo "\033[33;1m Ketik Command Untuk Execute:"
 read mrrm
 
 
@@ -31,7 +31,7 @@ toilet -f slant --gay "BSpam"
 echo "\033[34;1mRepositori:""\033[37;1m https://github.com/axell0074"
 sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Bash"
-echo "\033[33;1mKarya: $ALERT$"
+echo "\033[33;1mKarya: $ A L E R T $"
 sleep 1
 echo "\033[32;1mVersi: Beta"
 sleep 1
@@ -54,7 +54,13 @@ echo "And All Stundents SMKN 2 CIMAHI"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
 clear
-sh $ sh betaspam.sh
+echo "\033[32;1m Command Spam Yang Tersedia :"
+echo "\033[35;1m1.""\033[36;1m$ php spamwa.php"
+echo "\033[35;1m2.""\033[36;1m$ php call.php"
+echo "\033[35;1m3.""\033[36;1m$ php spammail.php"
+echo "\033[31;1m0. Keluar"
+echo "\033[37;1m81.""\033[30;1mInformasi Tool Ini"
+echo "\033[33;1m Ketik Command Untuk Execute:"
 fi
 
 
