@@ -12,41 +12,14 @@ echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
 echo "\033[36;1m★""\033[34;1mAditya-Ploit BetaSpam""\033[36;1m★"
 sleep 1
-echo "\033[32;1m Spam Yang Tersedia :"
-echo "\033[35;1m1.""\033[36;1mSpamWhatsapp"
-echo "\033[35;1m2.""\033[36;1mSpamCallTokPed"
+echo "\033[32;1m Command Spam Yang Tersedia :"
+echo "\033[35;1m1.""\033[36;1m$ php spamwa.php"
+echo "\033[35;1m2.""\033[36;1m$ php call.php"
+echo "\033[35;1m3.""\033[36;1m$ php spammail.php"
 echo "\033[31;1m0. Keluar"
 echo "\033[37;1m81.""\033[30;1mInformasi Tool Ini"
-echo "\033[33;1m Pilih Angka:"
+echo "\033[33;1m Ketik Angka 81 Untuk Info:"
 read mrrm
-
-if [ $mrrm = 1 ] || [ $mrrm = 1 ]
-then
-clear
-toilet -f slant "Bukalapak"
-echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
-sleep 5
-clear
-php spamwa.php
-fi
-
-if
-[ $mrrm = 2 ] || [ $mrrm = 2 ]
-then
-clear
-echo "\033[31;1m"
-toilet "T-Sel"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
-sleep 5
-clear
-php call.php
-fi
 
 
 
@@ -80,6 +53,7 @@ sleep 1
 echo "And All Stundents SMKN 2 CIMAHI"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
+clear
 sh betaspam.sh
 fi
 
@@ -92,5 +66,7 @@ echo "\033[31;1m Keluar"
 sleep 1
 echo "\033[32;1m Sampai berjumpa lagi :)"
 sleep 1
+clear
+
 fi
 
