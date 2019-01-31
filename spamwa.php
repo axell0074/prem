@@ -1,7 +1,6 @@
 <?php
-echo "\033[33;1m PrankTools By Aditya"
-echo "\033[36;1m★""\033[34;1mAditXploit""\033[36;1m★"
-echo "\033[33;1m Nomor Target? Ex :08XXXXXXXXX\nInput :  ";
+echo "COPYRIGHT : Aditya Fajri indoXploit\n\n";
+echo "Nomor Target? Ex :08XXXXXXXXX\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
 	$nomer = str_replace("0","62".$nomer);
