@@ -30,7 +30,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
-$ php spamwa.php
+spamwa.php
 fi
 
 if
@@ -45,7 +45,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
-$ php call.php
+call.php
 fi
 
 
@@ -80,7 +80,6 @@ sleep 1
 echo "And All Stundents SMKN 2 CIMAHI"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
-cd prem
 sh betaspam.sh
 fi
 
