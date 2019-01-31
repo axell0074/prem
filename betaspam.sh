@@ -54,7 +54,7 @@ echo "And All Stundents SMKN 2 CIMAHI"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
 clear
-sh betaspam.sh
+sh $ sh betaspam.sh
 fi
 
 
