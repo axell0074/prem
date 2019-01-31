@@ -31,7 +31,7 @@ echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
 cd prem
-php spamwa.php
+$ php spamwa.php
 fi
 
 if
@@ -47,7 +47,7 @@ echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
 cd prem
-php call.php
+$ php call.php
 fi
 
 
