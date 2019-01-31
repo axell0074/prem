@@ -31,7 +31,7 @@ echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
 cd prem
-php php spamwa.php
+php spamwa.php
 fi
 
 if
@@ -47,7 +47,7 @@ echo "\033[31;1mAuthor:""\033[37;1mAditya-Ploit"
 sleep 5
 clear
 cd prem
-php php call.php
+php call.php
 fi
 
 
@@ -57,7 +57,7 @@ if
 then
 clear
 toilet -f slant --gay "BetaSpam"
-echo "\033[34;1mRepositori:""\033[37;1m https://github.com/axell0074"
+echo "\033[34;1mRepositori:""\033[37;1m https://github.com/axell0074/prem"
 sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Bash"
 echo "\033[33;1mKarya: $ALERT$"
